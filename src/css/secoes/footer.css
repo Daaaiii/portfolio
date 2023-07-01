@@ -2,7 +2,8 @@
 .footer {
     margin-top: 7rem;
     text-align: center;
-    background-color: var(--cor-fundo);
+    background-color: var(--cor-fundo-escura);
+   
 }
 
 .footer .container {
@@ -15,4 +16,5 @@
     font-weight: 700;
     letter-spacing: 2px;
     margin-bottom: 20px;
+   
 }
