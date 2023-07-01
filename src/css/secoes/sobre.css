@@ -20,6 +20,9 @@
     padding: 0 25px;   
     align-self: center; 
 }
+.sobre-mim .informacoes-sobre-mim span{
+    color: var(--cor-primaria);
+}
 
 .sobre-mim .informacoes-sobre-mim .botoes {
     margin-top: 50px;

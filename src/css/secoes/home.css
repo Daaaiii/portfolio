@@ -43,6 +43,9 @@
     font-size: var(--fonte-grande);
     margin-bottom: 10px;
 }
+ .home .texto-home span{
+    color: var(--cor-primaria);
+ }
 
 .home .texto-home h1 {
     font-family: var(--fonte-secundaria);
