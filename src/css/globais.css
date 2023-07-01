@@ -53,11 +53,11 @@ html {
   }
   
   .outer-shadow {
-    box-shadow: 3px 3px #6c043c, -3px -3px 3px #6c043c;
+    box-shadow: 3px 3px #30031b, -3px -3px 3px #30031b;
   }
   
   .inner-shadow {
-    box-shadow: inset 3px 3px 3px #6c043c, inset -3px -3px 3px #6c043c;
+    box-shadow: inset 3px 3px 3px #30031b, inset -3px -3px 3px #30031b;
   }
 
   .section{
@@ -82,10 +82,10 @@ html {
     padding: 10px 20px;
     border-radius: 20px;
     transition: all .3s ease;
-    background-color: var(--cor-primaria);
+    background-color: var(--cor-secundaria);
   }
   
   .botao:hover {
-    background-color: var(--cor-secundaria);
+    background-color: var(--cor-primaria);
     color: var(--cor-clara);
   }
