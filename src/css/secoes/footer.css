@@ -2,7 +2,7 @@
 .footer {
     margin-top: 7rem;
     text-align: center;
-    background-color: var(--cor-fundo-cinza-claro);
+    background-color: var(--cor-fundo);
 }
 
 .footer .container {
