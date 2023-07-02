@@ -129,7 +129,7 @@
 
    .header nav ul {
         display: none;        
-        background-color: var(--cor-fundo-escura);         
+        background-color: var(--cor-secundaria);         
         padding: 20px;       
     }
     
