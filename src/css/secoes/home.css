@@ -46,6 +46,9 @@
  .home .texto-home span{
     color: var(--cor-primaria);
  }
+ strong::selection{
+    background-color: var(--cor-fundo);
+ }
 
 .home .texto-home h1 {
     font-family: var(--fonte-secundaria);
@@ -53,10 +56,19 @@
     font-weight: 700;
     margin-bottom: 20px;
 }
+.home .texto-home h1::selection{
+    background-color: var(--cor-fundo);
+}
+span::selection{
+    background-color: var(--cor-fundo);
+}
 
 .home .texto-home h2 {
     font-family: var(--fonte-secundaria);
     font-size: var(--fonte-grande);
     letter-spacing: 2px;
     margin-bottom: 30px;
+}
+.home .texto-home h2::selection{
+    background-color: var(--cor-fundo);
 }
