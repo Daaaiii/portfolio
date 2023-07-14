@@ -95,6 +95,3 @@ body {
   color: var(--cor-clara);
 }
 
-.projeto img {
-  object-fit: cover;
-}
